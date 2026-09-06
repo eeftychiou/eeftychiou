@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eftychios-eftychiou-88686843/)
 [![Email](https://img.shields.io/badge/Email-eftychios.eftychiou%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:eftychios.eftychiou@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Brussels%20%7C%20Cyprus-lightgrey?style=flat&logo=google-maps&logoColor=red)](https://www.google.com/maps)
-[![MSc CS](https://img.shields.io/badge/Georgia%20Tech-MSc%20CS%20(GPA%204.0)-B3A369?style=flat&logo=georgiatech&logoColor=white)](https://omscs.gatech.edu/)
+[![MSc CS](https://img.shields.io/badge/Georgia%20Tech-MSc%20CS%20-B3A369?style=flat&logo=georgiatech&logoColor=white)](https://omscs.gatech.edu/)
 [![JOAS 2026](https://img.shields.io/badge/Published-JOAS%202026-brightgreen?style=flat)](https://openaviationjournal.com)
 
 **AI & Machine Learning Specialist | Senior EU Safety & Regulatory Governance Expert**  
@@ -15,16 +15,16 @@
 
 - **Frontier LLM Orchestration & Quantitative Safety Gates:** Architect of multi-provider LLM pipelines featuring automated 0–100 evaluation scorecards, dynamic parameter resolution, intent routing, and sliding-window rate-limiting guardrails aligning with **Regulation (EU) 2024/1689 (EU AI Act, Articles 55 & 92)**.
 - **Autonomous Agentic AI Frameworks:** Ground-up agent frameworks for Antigravity ecosystems, resilient multi-tier model routing (Hermes catalog), dynamic reasoning effort allocation, and tool-calling sandboxes via the **Model Context Protocol (MCP)**.
-- **Scientific Machine Learning & PINNs:** Combining Physics-Informed Neural Networks (PINN in PyTorch Lightning) with gradient-boosted trees (XGBoost) for safety-critical aviation telemetry; peer-reviewed research published in the ***Journal of Open Aviation Science* (2026)** ($R^2 = 0.961$).
-- **EU Legal Tech & Regulatory RAG:** Semantic compliance retrieval indexing EU legislation (**EUR-Lex**) via live SOAP/WSDL webservice integrations, LlamaIndex, and local HuggingFace transformers.
-- **Safety-Critical Distributed Systems:** Decentralized peer-to-peer air traffic flow networks (FastAPI, WebSockets, CASA delay algorithms) with immutable audit logging.
+- **Scientific Machine Learning:** Combining Physics-Informed Neural Networks with gradient-boosted trees (XGBoost) for safety-critical aviation telemetry; peer-reviewed research published in the ***Journal of Open Aviation Science* (2026)** ($R^2 = 0.961$).
+- **EU Legal Tech & Regulatory RAG:** Semantic compliance retrieval indexing EU legislation (**EUR-Lex**) via live SOAP/WSDL webservice integrations, LlamaIndex, and local transformers.
+- **Safety-Critical Distributed Systems:** Decentralized peer-to-peer air traffic flow networks (CASA delay algorithms).
 
 ---
 
 ## 🏛️ Academic & Regulatory Leadership
 
-- **M.S. in Computer Science (Machine Learning Specialization)** — *Georgia Institute of Technology* (GPA: **4.0 / 4.0**)
-- **B.S. in Mathematics & Statistics** — *University of Cyprus*
+- **M.S. in Computer Science (Computational Perception and Machine Learning Specialization)** — *Georgia Institute of Technology* (GPA: **4.0 / 4.0**)
+- **B.S. in Electrical and Computer Engieering** — *Hofstra University*
 - **16+ Years EU Institutional Governance:**
   - **Eurocontrol:** State Liaison Officer (Airspace, safety regulation, ATM modernization).
   - **European Union Aviation Safety Agency (EASA):** Alternate Member, Management Board.
