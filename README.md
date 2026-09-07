@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eftychios-eftychiou-88686843/)
 [![Email](https://img.shields.io/badge/Email-eftychios.eftychiou%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:eftychios.eftychiou@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Brussels%20%7C%20Cyprus-lightgrey?style=flat&logo=google-maps&logoColor=red)](https://www.google.com/maps)
-[![MSc CS](https://img.shields.io/badge/Georgia%20Tech-MSc%20CS%20(GPA%204.0)-B3A369?style=flat&logo=georgiatech&logoColor=white)](https://omscs.gatech.edu/)
+[![MSc CS](https://img.shields.io/badge/Georgia%20Tech-MSc%20CS-B3A369?style=flat&logo=georgiatech&logoColor=white)](https://omscs.gatech.edu/)
 [![JOAS 2026](https://img.shields.io/badge/Published-JOAS%202026-brightgreen?style=flat)](https://openaviationjournal.com)
 
 **Machine Learning Practitioner & Systems Architect**  
@@ -16,7 +16,7 @@ Brussels, Belgium & Nicosia, Cyprus
 
 I am a computer scientist and machine learning specialist working at the intersection of **autonomous agentic architectures**, **scientific deep learning**, and **safety-critical distributed systems**. 
 
-Holding an **M.S. in Computer Science (Computational Perception and Machine Learning)** from the **Georgia Institute of Technology (GPA 4.0 / 4.0)** and a **B.S. in Electrical and Computer Engineering** from **Hofstra University**, my work bridges rigorous mathematical foundations with production software craftsmanship. Alongside software development, my background includes 16+ years working within complex European safety-critical systems and technical regulatory oversight—instilling an engineering philosophy centered on algorithmic precision, test-driven validation, and verifiable system resilience.
+Holding an **M.S. in Computer Science (Computational Perception and Machine Learning)** from the **Georgia Institute of Technology** and a **B.S. in Electrical and Computer Engineering** from **Hofstra University**, my work bridges rigorous mathematical foundations with production software craftsmanship. Alongside software development, my background includes 16+ years working within complex European safety-critical systems and technical regulatory oversight—instilling an engineering philosophy centered on algorithmic precision, test-driven validation, and verifiable system resilience.
 
 ### Core Areas of Exploration:
 - **Autonomous Agents & Tool Ecosystems:** Composable agent frameworks, adaptive execution gates, dynamic multi-tier model routing (fast, smart, reasoning), and sandboxed tool execution via the **Model Context Protocol (MCP)**.
@@ -91,7 +91,7 @@ Engineering:        Test-Driven Development (TDD), Docker, GitHub Actions CI/CD,
 
 ## 🏛️ Education & Background
 
-- **M.S. in Computer Science (Computational Perception and Machine Learning Specialization)** — *Georgia Institute of Technology* (GPA: **4.0 / 4.0**)
+- **M.S. in Computer Science (Computational Perception and Machine Learning Specialization)** — *Georgia Institute of Technology*
 - **B.S. in Electrical and Computer Engineering** — *Hofstra University*
 - **16+ Years in Complex Systems & Safety Governance:** Extensive background bridging advanced software engineering with international and European safety-critical systems, technical standards, and institutional regulatory oversight across aviation (Eurocontrol, EASA) and aerospace security (Galileo SAB).
 
