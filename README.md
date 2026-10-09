@@ -2,7 +2,7 @@
 
 Computer scientist (MSc Computer Science, Georgia Tech, machine learning specialisation) working on aviation data, machine learning and EU aviation and digital policy in Brussels.
 
-State Liaison Officer of Cyprus to EUROCONTROL and Alternate Member of the EASA Management Board. Repositories here are personal or research projects unless stated otherwise; views are my own.
+Policy Officer at the European Commission (DG MOVE). Previously State Liaison Officer of Cyprus to EUROCONTROL and Alternate Member of the EASA Management Board (2021–2026). Repositories here are personal or research projects unless stated otherwise; views are my own.
 
 [LinkedIn](https://www.linkedin.com/in/eftychios-eftychiou-88686843/) · [Email](mailto:eftychios.eftychiou@gmail.com)
 
@@ -39,3 +39,5 @@ Python (pandas, scikit-learn, XGBoost, Optuna), TypeScript/Node.js, PHP, SQL, C/
 - Software engineer and team leader on real-time payment systems (TSYS, 2004–2009)
 - Licensed air traffic controller, Paphos (2009–2016)
 - Attaché for aviation, space, telecoms and cyber, Permanent Representation of Cyprus to the EU (2016–2021)
+- State Liaison Officer of Cyprus to EUROCONTROL; Alternate Member, EASA Management Board (2021–2026)
+- Policy Officer, European Commission, DG MOVE (2026–)
