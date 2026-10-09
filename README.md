@@ -1,104 +1,41 @@
-# Eftychios Eftychiou, MSc
+# Eftychios Eftychiou
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eftychios-eftychiou-88686843/)
-[![Email](https://img.shields.io/badge/Email-eftychios.eftychiou%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:eftychios.eftychiou@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Brussels%20%7C%20Cyprus-lightgrey?style=flat&logo=google-maps&logoColor=red)](https://www.google.com/maps)
-[![MSc CS](https://img.shields.io/badge/Georgia%20Tech-MSc%20CS-B3A369?style=flat&logo=georgiatech&logoColor=white)](https://omscs.gatech.edu/)
-[![JOAS 2026](https://img.shields.io/badge/Published-JOAS%202026-brightgreen?style=flat)](https://openaviationjournal.com)
+Computer scientist (MSc Computer Science, Georgia Tech, machine learning specialisation) working on aviation data, machine learning and EU aviation and digital policy in Brussels.
 
-**Machine Learning Practitioner & Systems Architect**  
-*Building Autonomous Agentic Systems, Scientific Machine Learning & Safety-Critical Architectures*  
-Brussels, Belgium & Nicosia, Cyprus
+State Liaison Officer of Cyprus to EUROCONTROL and Alternate Member of the EASA Management Board. Repositories here are personal or research projects unless stated otherwise; views are my own.
+
+[LinkedIn](https://www.linkedin.com/in/eftychios-eftychiou-88686843/) · [Email](mailto:eftychios.eftychiou@gmail.com)
 
 ---
 
-## 🔭 About & Technical Focus
+## Selected work
 
-I am a computer scientist and machine learning specialist working at the intersection of **autonomous agentic architectures**, **scientific deep learning**, and **safety-critical distributed systems**. 
+| Project | What it is | My role |
+|---|---|---|
+| [PRCXGBoost](https://github.com/eeftychiou/PRCXGBoost) | Fuel-burn prediction for the EUROCONTROL PRC Data Challenge 2025: XGBoost on ADS-B trajectories, METAR weather and OpenAP physics-derived features, Optuna tuning. Team *bright-lobster* (KIOS CoE, University of Cyprus, with DCA Cyprus). One of the two team solutions published in the JOAS special issue on the challenge. The published model scores RMSE 214.9 kg on the official blind test sets (paper, Table 12); our scored final submission was erroneous, so the official final ranking is 11th of 33 finalists. | Co-developer, co-author of the [JOAS paper](https://doi.org/10.59490/joas.2026.8764) |
+| [AIXM-Parser](https://github.com/eeftychiou/AIXM-Parser) | Python library and browser viewer for AIXM 4.5 aeronautical data (airspaces, sectors, routes). | Author |
+| [ddfn_v2](https://github.com/eeftychiou/ddfn_v2) | Research prototype of decentralised demand and capacity balancing (ATFM) over publish/subscribe messaging. FastAPI, WebSockets, Leaflet. | Author |
+| [presshub](https://github.com/eeftychiou/presshub) | WordPress plugin that integrates several LLM providers (OpenAI, Anthropic, Gemini/Vertex AI) with an LLM-based editorial quality score, rate limiting and CI-tested PHP/TypeScript code. | Author |
+| [AeroDeck](https://github.com/eeftychiou/AeroDeck) | General-purpose agentic workflow framework for Google Antigravity. **Began as a port of [obra/superpowers](https://github.com/obra/superpowers) (MIT, © Jesse Vincent)** and has been generalised beyond software development. I added MCP servers (Playwright browser automation, Google Workspace, multi-provider model router), background scheduling, a Telegram supervision bridge and new skills for research, documents, email and data work. | Author of the extensions; maintainer |
+| [FuelCost](https://github.com/eeftychiou/FuelCost) | Dash/Plotly model of the cost impact of Fit for 55 measures (ReFuelEU SAF mandate, EU ETS, energy taxation) on airline routes. | Author |
+| [AirConnectivity](https://github.com/eeftychiou/AirConnectivity) | Weighted PageRank air-connectivity indicator on EUROCONTROL R&D flight data. | Author |
 
-Holding an **M.S. in Computer Science (Computational Perception and Machine Learning)** from the **Georgia Institute of Technology** and a **B.S. in Electrical and Computer Engineering** from **Hofstra University**, my work bridges rigorous mathematical foundations with production software craftsmanship. Alongside software development, my background includes 16+ years working within complex European safety-critical systems and technical regulatory oversight—instilling an engineering philosophy centered on algorithmic precision, test-driven validation, and verifiable system resilience.
+Earlier work: [Twitter-Scraper](https://github.com/eeftychiou/Twitter-Scraper) (extended fork of GetOldTweets-python, used for the social-media research below) and [airplane-detection](https://github.com/eeftychiou/airplane-detection) (OpenCV Haar cascades, 2015).
 
-### Core Areas of Exploration:
-- **Autonomous Agents & Tool Ecosystems:** Composable agent frameworks, adaptive execution gates, dynamic multi-tier model routing (fast, smart, reasoning), and sandboxed tool execution via the **Model Context Protocol (MCP)**.
-- **Frontier LLM Orchestration & Evaluation Benchmarks:** Vendor-neutral multi-provider pipelines, automated quantitative evaluation gates (0–100 scorecards), semantic intent routing, and sliding-window rate-limiting guardrails.
-- **Physics-Informed Machine Learning (PINNs):** Integrating physical principles (aerodynamics, atmospheric thermodynamics) into deep learning loss functions and gradient-boosted trees for high-stakes modeling.
-- **Safety-Critical Distributed Networks:** Peer-to-peer event coordination, distributed slot allocation algorithms, and immutable audit telemetry with zero single points of failure.
-- **Regulatory Knowledge Retrieval & Policy Analytics:** Domain-specific RAG indexing dense statutory corpora (e.g., EUR-Lex) and interactive simulation platforms modeling the economic dynamics of European environmental policies.
+## Publications
 
----
+- Grigoriou, Y., **Eftychiou, E.**, Vitale, C., Pettemeridis, G., Souli, N., & Kolios, P. (2026). A physics-guided gradient boosting framework for open-source aviation fuel estimation. *Journal of Open Aviation Science*, 4(3). https://doi.org/10.59490/joas.2026.8764
+- Avraamidou, M., & **Eftychiou, E.** (2022). Migrant racialization on Twitter during a border and a pandemic crisis. *International Communication Gazette*, 84(3), 227–251. https://doi.org/10.1177/17480485211054301
+- Avraamidou, M., Ioannou, M., & **Eftychiou, E.** (2021). "Innocent" hashtags? A cautionary tale: #IStandWithGreece as a network of intolerance on Twitter during a land border crisis. *International Journal of Communication*, 15, 2849–2869.
+- Avraamidou, M., Şahin, S., & **Eftychiou, E.** (in press). (Elite) monologues on social media during Cyprus' peace negotiations: How X/Twitter promotes elites' perspectives in divided societies. *Media, War & Conflict*.
 
-## 🚀 Featured Architectures & Open-Source Projects
+## Tools I use
 
-### 🤖 Autonomous Agents & LLM Systems
+Python (pandas, scikit-learn, XGBoost, Optuna), TypeScript/Node.js, PHP, SQL, C/C++ · LLM APIs (OpenAI, Anthropic, Gemini), LlamaIndex, Model Context Protocol · FastAPI, Dash/Plotly, Docker, GitHub Actions
 
-* **[AeroDeck](https://github.com/eeftychiou/AeroDeck)** — *Agentic AI & Autonomous Systems Framework*  
-  A domain-agnostic agent execution framework built for Google Antigravity. Features an **Adaptive Execution Gate** dynamically switching between rapid single-turn execution and peer-reviewed multi-subagent pipelines, a resilient multi-provider router integrated with the Hermes model catalog, and custom MCP servers for browser automation and workspace tooling. Validated with a 5-tier QA pyramid including 31 RFC 6455 WebSocket framing tests and 21 security audit suites.  
-  TypeScript Node.js Model Context Protocol RFC 6455 WebSockets Jest
+## Background
 
-* **[PressHub](https://github.com/eeftychiou/presshub)** — *Enterprise AI Co-Pilot & Multi-Provider LLM Engine*  
-  An enterprise AI orchestration engine integrating frontier foundation models with multimodal generation. Features an automated **0–100 readiness evaluation gate** quantitatively scoring drafts against structured rubrics before promotion, a unified Provider Store with strict precedence resolution, semantic classification routing, and per-user sliding-window rate-limiting guardrails.  
-  PHP 8.2+ TypeScript Multi-Provider LLM APIs PHPUnit (73 suites) Jest WP-Cron
-
-* **[logosAI](https://github.com/eeftychiou/logosAI)** — *Modern Greek Neural Speech Synthesis*  
-  Deep learning text-to-speech (TTS) engine and processing pipeline engineered for natural Greek language phonetics and expressive prosody.  
-  TypeScript Neural Audio Synthesis NLP
-
----
-
-### ✈️ Safety-Critical Aviation & Geospatial Systems
-
-* **[PRCXGBoost](https://github.com/eeftychiou/PRCXGBoost)** — *Physics-Informed Neural Networks & Flight Telemetry ML*  
-  Scientific machine learning pipeline combining **Physics-Informed Neural Networks (PINN in PyTorch Lightning)** with XGBoost, METAR atmospheric parsing, and BADA aerodynamics for aircraft fuel consumption prediction (^2 = 0.961$, RMSE = 204.6 kg). Peer-reviewed and published in the ***Journal of Open Aviation Science* (2026)**.  
-  PyTorch Lightning PINNs XGBoost Aviation Telemetry Scikit-Learn
-
-* **[ddfn_v2](https://github.com/eeftychiou/ddfn_v2)** — *Decentralized Air Traffic Flow Management Network*  
-  A decentralized, peer-to-peer drop-in alternative for centralized air traffic flow management. Utilizes a distributed pub/sub SWIM network to coordinate traffic flows, compute CASA delay allocations, and renegotiate 4D flight trajectories with immutable SQLite audit logging.  
-  Python FastAPI WebSockets Pydantic v2 Distributed Systems
-
-* **[AIXM-Parser](https://github.com/eeftychiou/AIXM-Parser)** — *Aeronautical Information Exchange Model Parser & Visualizer*  
-  High-performance Python library and interactive browser tool for parsing AIXM 4.5 XML datasets, extracting complex airspace geometry, and rendering interactive aeronautical map overlays.  
-  Python GIS / Geospatial XML Parsing Aviation Data
-
-* **[AirConnectivity](https://github.com/eeftychiou/AirConnectivity)** — *Graph-Theoretic Air Transport Network Topology*  
-  Network graph analytics computing air connectivity indicators using PageRank algorithms and onwards network connectivity metrics across flight network topologies.  
-  Python NetworkX Graph Algorithms Data Science
-
----
-
-### ⚖️ Regulatory Modeling & Domain-Specific RAG
-
-* **[llama-eurlex](https://github.com/eeftychiou/llama-eurlex)** — *EU Law Legal RAG Assistant*  
-  Domain-specific legal tech assistant indexing European Union legislative corpora (EUR-Lex). Integrates live SOAP/WSDL webservices with LlamaIndex and local HuggingFace transformers for automated query-driven statutory cross-referencing and compliance verification.  
-  Python LlamaIndex EUR-Lex SOAP/WSDL Transformers Vector Stores
-
-* **[FuelCost](https://github.com/eeftychiou/FuelCost)** — *EU Decarbonization Policy Simulation Platform*  
-  Interactive analytics platform modeling the multi-variable economic and operational impacts of European environmental policy packages (Fit for 55, SAF blending mandates, ETD fuel taxation, and EU ETS carbon compliance mechanisms).  
-  Python Dash / Plotly Policy Analytics Regulatory Modeling
-
----
-
-## 🛠️ Technical Stack & Toolchain
-
-`	ext
-Languages:          Python, TypeScript, PHP, SQL, Shell, C/C++
-Machine Learning:   PyTorch Lightning, XGBoost, Scikit-Learn, LlamaIndex, HuggingFace Transformers
-Agentic & LLM:      Model Context Protocol (MCP), Multi-Provider API Orchestration, Evaluation Rubrics
-Distributed & Web:  FastAPI, Node.js, WebSockets (RFC 6455), SQLite, Pydantic v2, REST / SOAP
-Engineering:        Test-Driven Development (TDD), Docker, GitHub Actions CI/CD, Linux
-`
-
----
-
-## 🏛️ Education & Background
-
-- **M.S. in Computer Science (Computational Perception and Machine Learning Specialization)** — *Georgia Institute of Technology*
-- **B.S. in Electrical and Computer Engineering** — *Hofstra University*
-- **16+ Years in Complex Systems & Safety Governance:** Extensive background bridging advanced software engineering with international and European safety-critical systems, technical standards, and institutional regulatory oversight across aviation (Eurocontrol, EASA) and aerospace security (Galileo SAB).
-
----
-
-## 📬 Connect & Collaborate
-
-- **LinkedIn:** [linkedin.com/in/eftychios-eftychiou-88686843](https://www.linkedin.com/in/eftychios-eftychiou-88686843/)
-- **Email:** [eftychios.eftychiou@gmail.com](mailto:eftychios.eftychiou@gmail.com)
-- **Location:** Brussels, Belgium & Nicosia, Cyprus
+- MSc Computer Science, Georgia Institute of Technology (2018); BSc Electrical and Computer Engineering, Hofstra University (2002, Fulbright scholar)
+- Software engineer and team leader on real-time payment systems (TSYS, 2004–2009)
+- Licensed air traffic controller, Paphos (2009–2016)
+- Attaché for aviation, space, telecoms and cyber, Permanent Representation of Cyprus to the EU (2016–2021)
