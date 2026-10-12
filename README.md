@@ -1,6 +1,6 @@
 # Eftychios Eftychiou
 
-Computer scientist (MSc Computer Science, Georgia Tech, machine learning specialisation) working on aviation data, machine learning and EU aviation and digital policy in Brussels.
+Computer scientist (MSc Computer Science, Georgia Tech; Computational Perception & Robotics concentration) working on aviation data, machine learning and EU aviation and digital policy in Brussels.
 
 Policy Officer at the European Commission (DG MOVE). Previously State Liaison Officer of Cyprus to EUROCONTROL and Alternate Member of the EASA Management Board (2021–2026). Repositories here are personal or research projects unless stated otherwise; views are my own.
 
@@ -35,7 +35,7 @@ Python (pandas, scikit-learn, XGBoost, Optuna), TypeScript/Node.js, PHP, SQL, C/
 
 ## Background
 
-- MSc Computer Science, Georgia Institute of Technology (2018); BSc Electrical and Computer Engineering, Hofstra University (2002, Fulbright scholar)
+- MSc Computer Science, Georgia Institute of Technology (2018); BSc Electrical Engineering (Computer Engineering concentration), Hofstra University (2002, Fulbright scholar)
 - Software engineer and team leader on real-time payment systems (TSYS, 2004–2009)
 - Licensed air traffic controller, Paphos (2009–2016)
 - Attaché for aviation, space, telecoms and cyber, Permanent Representation of Cyprus to the EU (2016–2021)
