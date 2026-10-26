@@ -4,7 +4,7 @@ Computer scientist (MSc Computer Science, Georgia Tech; Computational Perception
 
 Policy Officer at the European Commission (DG MOVE). Previously State Liaison Officer of Cyprus to EUROCONTROL and Alternate Member of the EASA Management Board (2021–2026). Repositories here are personal or research projects unless stated otherwise; views are my own.
 
-[LinkedIn](https://www.linkedin.com/in/eftychios-eftychiou-88686843/) · [Email](mailto:eftychios.eftychiou@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eftychios-eftychiou-88686843/) · [Email](mailto:eftychios.eftychiou at gmail.com)
 
 ---
 
